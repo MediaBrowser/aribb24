@@ -9,7 +9,7 @@ pkgdatadir=${datadir}/@PACKAGE@
 pkglibdir=${libdir}/@PACKAGE@
 pluginsdir=${pkglibdir}/plugins
 
-Name: ARIB B24 Library
+Name: aribb24
 Description: ARIB B24 Captions decoder
 Version: @VERSION@
 Requires: @PKG_REQUIRES@
